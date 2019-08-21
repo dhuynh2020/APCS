@@ -18,3 +18,8 @@
 * add -> add a file to the stage
 * rm --cached -> remove file form stage 
 * git commit -m "Present tense desciption of what changed" 
+* git log -> Enter to move down, q to quit git 
+
+
+## Problems
+* commit without -m -< use Esc :wq to quit vim>
