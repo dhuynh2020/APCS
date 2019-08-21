@@ -1,0 +1,19 @@
+#Git
+
+## One time SEtup
+`git config --global user.name "Dylan Huynh"`
+`git config --global user.email "CyKoNinja1999@gmail.com"`
+
+## Project Setup
+`git init`
+
+## 3 Step Repeating Comit Process
+1. Make changes to code 
+2. Stage related changes
+    * git add 
+3. Commit changes with a message
+
+* status -> tell me what files have been staged or commited 
+* add -> add a file to the stage
+* rm --cached -> remove file form stage 
+* git commit -m "Present tense desciption of what changed" 
