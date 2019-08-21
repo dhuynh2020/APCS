@@ -24,3 +24,4 @@
 ## Problems
 * commit without -m -< use Esc :wq to quit vim>
 * Wrong message -> git commit --amend -m "new message"
+* wrong commit -> git checkout COMMIT_ID 
