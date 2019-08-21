@@ -19,7 +19,8 @@
 * rm --cached -> remove file form stage 
 * git commit -m "Present tense desciption of what changed" 
 * git log -> Enter to move down, q to quit git 
-
+* git checkout -> figulename  -> discard changes
 
 ## Problems
 * commit without -m -< use Esc :wq to quit vim>
+* Wrong message -> git commit --amend -m "new message"
