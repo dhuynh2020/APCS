@@ -6,6 +6,7 @@ public class git
          System.out.println("Hi Mom");
          System.out.println("Thomas is a fool");
          System.out.println("Joe who?");
+         System.out.println("I love buritos");
     }
 
 }
