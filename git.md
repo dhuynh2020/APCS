@@ -12,6 +12,7 @@
 2. Stage related changes
     * git add 
 3. Commit changes with a message
+    *git commit -m "Message" 
 
 * status -> tell me what files have been staged or commited 
 * add -> add a file to the stage
